@@ -13,4 +13,4 @@
 7. Copy and paste "%localappdata%\\bfc" into value
 ![](images/path/sv.png)
 
-## Done!
+## [Done!](README)

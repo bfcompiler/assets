@@ -50,8 +50,8 @@
   "openExportedFile": true,
   "lastEditName": "Typst",
   "lastExportDirectory": {
-    "win32": "C:\\Users\\Jacob\\Documents\\orgs\\bfcompiler\\assets"
+    "win32": "C:\\Users\\Jacob\\Documents\\orgs\\bfcompiler\\website\\content\\bfc-winstaller"
   },
-  "lastExportType": "Markdown",
+  "lastExportType": "Markdown (Hugo)",
   "showOverwriteConfirmation": false
 }

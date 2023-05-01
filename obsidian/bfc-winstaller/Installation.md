@@ -16,7 +16,6 @@
 8. Wait for Brainf\*\*k Compiler to download
 ![[images/install/bd.png]]
 9. [Add %localappdata%\\bfc to your user path variable](Path)
-![](http://127.0.0.1:5500/obsidian/bfc-winstaller/images/atp.png)
-![[images/install/atp.png]]
+![](images/install/atp.png)
 
-## Done!
+## [Done!](README)

@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d093dca96ebed8f4",
+        "id": "cd584ca772a11a4c",
         "type": "tabs",
         "children": [
           {
-            "id": "b07eb2c73be0fde0",
+            "id": "408e764967523997",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "internals/CHANGELOG.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "internals/BUILDING.md",
+                "file": "internals/CHANGELOG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "internals/BUILDING.md",
+                "file": "internals/CHANGELOG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "internals/BUILDING.md"
+                "file": "internals/CHANGELOG.md"
               }
             }
           }
@@ -142,30 +146,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a20c8bd172b811b",
+  "active": "408e764967523997",
   "lastOpenFiles": [
-    "internals/CHANGELOG.md",
     "internals/LICENSE.md",
     "internals/README.md",
+    "internals/CHANGELOG.md",
+    "internals/BUILDING.md",
     "Installation.md",
-    "README.md",
     "Path.md",
+    "README.md",
+    "images/install/dp.png",
+    "images/install/di.png",
+    "images/install/aw 1.png",
+    "images/install/bd.png",
+    "images/install/aw.png",
+    "images/install/atp.png",
+    "images/install/wa.png",
     "images/path/sv.png",
     "images/path/se.png",
     "images/path/nv.png",
-    "images/path/ev.png",
-    "internals/BUILDING.md",
-    "images/path/ov.png",
     "images/path",
-    "images/install/ac.png",
     "images/install",
     "images.md",
     "[[Path]].md",
-    "images/install/atp.png",
-    "images/install/bd.png",
     "README.typ",
-    "images/install/wa.png",
-    "images/install/aw 1.png",
     "images",
     "Installation.pdf",
     "Installation.html",
