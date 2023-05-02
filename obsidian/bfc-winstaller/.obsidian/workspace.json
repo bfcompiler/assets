@@ -11,8 +11,12 @@
             "id": "21b1d4abc29da730",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "internals/CHANGELOG.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "internals/CHANGELOG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "internals/CHANGELOG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "internals/CHANGELOG.md"
+              }
             }
           }
         ]
@@ -148,13 +156,13 @@
   },
   "active": "21b1d4abc29da730",
   "lastOpenFiles": [
-    "Path.md",
-    "Installation.md",
-    "README.md",
-    "internals/CHANGELOG.md",
     "internals/BUILDING.md",
     "internals/LICENSE.md",
     "internals/README.md",
+    "internals/CHANGELOG.md",
+    "Path.md",
+    "Installation.md",
+    "README.md",
     "images/install/dp.png",
     "images/install/di.png",
     "images/install/aw 1.png",
