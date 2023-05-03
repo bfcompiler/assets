@@ -8,6 +8,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## Added
+- Tooltips for github icons, for where they redirect you to
+
 ## [0.1.1] - 2023-05-02
   
 ### Added
