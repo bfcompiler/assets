@@ -8,6 +8,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.4] - 2023-05-04
+
+## Added
+- UPX packaging for better executable size
+
+### Changed
+- The build setup to rebuild libstd for better executable size
+
 ## [0.1.3] - 2023-05-04
 
 ### Changed
