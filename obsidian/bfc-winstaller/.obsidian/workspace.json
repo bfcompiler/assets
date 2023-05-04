@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "internals/README.md",
+                "file": "internals/CHANGELOG.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "internals/README.md",
+                "file": "internals/CHANGELOG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "internals/README.md",
+                "file": "internals/CHANGELOG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "internals/README.md"
+                "file": "internals/CHANGELOG.md"
               }
             }
           }
@@ -156,8 +156,8 @@
   },
   "active": "de2f3fa2a81e192c",
   "lastOpenFiles": [
-    "internals/LICENSE.md",
     "internals/README.md",
+    "internals/LICENSE.md",
     "README.md",
     "Path.md",
     "internals/BUILDING.md",
