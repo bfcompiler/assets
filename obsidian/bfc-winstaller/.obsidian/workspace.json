@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b1a00025c8abb79f",
+        "id": "c79ac876c5dfc099",
         "type": "tabs",
         "children": [
           {
-            "id": "93cef8d2c558e838",
+            "id": "de2f3fa2a81e192c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -154,15 +154,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "93cef8d2c558e838",
+  "active": "de2f3fa2a81e192c",
   "lastOpenFiles": [
-    "internals/BUILDING.md",
-    "internals/CHANGELOG.md",
     "internals/LICENSE.md",
     "internals/README.md",
-    "Installation.md",
     "README.md",
     "Path.md",
+    "internals/BUILDING.md",
+    "internals/CHANGELOG.md",
+    "Installation.md",
     "images/install/dp.png",
     "images/install/di.png",
     "images/install/aw 1.png",

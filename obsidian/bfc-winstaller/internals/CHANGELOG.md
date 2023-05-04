@@ -8,6 +8,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.3] - 2023-05-04
+
+### Changed
+- Completely rewrote the functionality side of the app to be more async and error-proof
+
 ## [0.1.2] - 2023-05-03
 
 ## Added
